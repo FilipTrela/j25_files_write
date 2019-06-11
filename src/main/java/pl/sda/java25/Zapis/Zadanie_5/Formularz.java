@@ -41,8 +41,8 @@ public class Formularz {
 
     @Override
     public String toString() {
-        return "\n*******\nImię/" + imie + "\n Nazwisko/" + nazwisko +
-                "\n Wiek/" + wiek + "\n Płeć/" + płeć +
-                "\n Wzrost/" + wzrost + "\n Zarobki/" + zarobki;
+        return "\n*******\nImię=" + imie + "\n Nazwisko=" + nazwisko +
+                "\n Wiek=" + wiek + "\n Płeć=" + płeć +
+                "\n Wzrost=" + wzrost + "\n Zarobki=git " + zarobki;
     }
 }
