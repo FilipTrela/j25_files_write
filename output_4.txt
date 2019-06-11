@@ -1,0 +1,37 @@
+
+*******
+Imię=Filip
+ Nazwisko=trela
+ Wiek=12
+ Płeć=men
+ Wzrost=123
+ Zarobki=123
+*******
+Imię=Filip
+ Nazwisko=trela
+ Wiek=12
+ Płeć=men
+ Wzrost=123
+ Zarobki=123
+*******
+Imię=Filip
+ Nazwisko=trela
+ Wiek=12
+ Płeć=men
+ Wzrost=123
+ Zarobki=123
+
+*******
+Imię=Filip
+ Nazwisko=trela
+ Wiek=12
+ Płeć=men
+ Wzrost=123
+ Zarobki=123
+*******
+Imię=Filip
+ Nazwisko=trela
+ Wiek=12
+ Płeć=men
+ Wzrost=123
+ Zarobki=123
